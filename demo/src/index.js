@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import "tachyons/css/tachyons.min.css";
 
-import Text from "../../src/components/Text";
+import { Text } from "../../src";
 
 class Demo extends Component {
   render() {
